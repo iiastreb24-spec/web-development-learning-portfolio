@@ -1,4 +1,3 @@
-1
 # web-development-learning-portfolio
 
 Учебный репозиторий для практических работ по веб-разработке.
@@ -12,3 +11,5 @@ HTML5, CSS3, JavaScript, Git, GitHub, VS Code.
 
 ## Как запустить
 Откройте файл index.html в браузере.
+## Описание проекта
+Учебный проект для практики работы с Git, GitHub Desktop и VS Code.
